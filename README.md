@@ -16,6 +16,7 @@ Steps are to be completed under the div with `id="exercise1"`
 1. Create a **heading 1** element that contains your name between opening and closing tags
 2. Create a **paragraph** element that contains a bio about yourself
 
+
 ## Exercise 2
 
 Steps are to be completed under the div with `id="exercise2"`
